@@ -1,4 +1,4 @@
-# Tp_VpC2
+# Visión por Computadora 2 - Trabajo práctico integrador
 En este repositorio se encuentran los archivos que se usaron para el desarrollo del trabajo practico integrador de la asignatura Visión por Computadora 2 de la Especialización en Inteligencia Artificial de la FIUBA.
 
 ---
